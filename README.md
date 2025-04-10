@@ -137,11 +137,7 @@ Benefits:
   - `ACC424 Python code all.py`
 - All interactive coding notebooks are linked above via Anaconda Cloud
 
-🧠 If you have any questions about the Python notes or encounter any coding difficulties, I am here to help you and are available to meet you in person during office hours:
-- 🕓 **Office Hours**: 2:30 PM – 3:45 PM on Mondays and Wednesdays
-- 📍 **Location**: 435J Gatton B&E
 
-For quick questions, feel free to reach out via my email zju222@uky.edu. 
 
 
 ---
