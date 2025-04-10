@@ -98,7 +98,7 @@ Benefits:
 - 100% testing coverage
 - Real-time flagging of control failures
 - Traceable, structured audit documentation
-
+🔗 [Prompt Engineering Notebook](https://nb.anaconda.cloud/jupyterhub/user/976e55b1-05fb-4288-8798-8a416ead9118/lab/workspaces/auto-d/tree/anaconda_projects/Automating%20Internal%20Controls%20Testing.ipynb?))
 ---
 
 ## Source Files
