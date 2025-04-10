@@ -101,7 +101,7 @@ Benefits:
 
 ---
 
-> ✨ This README is auto-generated using prompt engineering and code snippets from in-class Python notebooks.
+
 
 
 
