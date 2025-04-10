@@ -93,13 +93,47 @@ Benefits:
   
 ---
 
+## Predictive Analytics for Financial Forecasting and BI (Module 7.3–7.5)
+Covers how to build predictive models for forward-looking business intelligence using accounting and financial data.
+
+Forecasting Targets:
+
+- Revenue growth
+- Operating expenses
+- Net income and ROA trends
+
+Techniques:
+
+- Feature engineering with lagged values and moving averages
+- Linear and polynomial regression
+- Time series decomposition (trend, seasonality, residual)
+
+Framework:
+
+- Load historical financial data
+- Transform into supervised learning format
+- Fit predictive models and evaluate accuracy (e.g., MAE, RMSE)
+- Visualize forecasted vs. actuals using matplotlib or plotly
+
+Benefits:
+
+- Data-driven budgeting and planning
+- Scenario modeling and what-if analysis
+- Enhanced decision support for CFOs and controllers
+
+🔗 [Forecasting & BI Notebook](https://anaconda.cloud/share/notebooks/a0170d38-04c6-4ad0-9dc4-73b6fd34a8d9/overview)
+
 ## Source Files
 - `Python notes all.pdf` (full lecture notes)
 - All coding notebooks available via Anaconda links above
 
 🧠 For any questions, refer to lecture notes or reach out during MW class sessions.
 
+
+
+
 ---
+
 
 
 
