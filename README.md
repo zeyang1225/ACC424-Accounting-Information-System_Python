@@ -124,15 +124,28 @@ Benefits:
 🔗 [Forecasting & BI Notebook](https://nb.anaconda.cloud/jupyterhub/user/976e55b1-05fb-4288-8798-8a416ead9118/lab/workspaces/auto-d/tree/anaconda_projects/Predictive%20analytics%20and%20business%20intelligence%20applications.ipynb?)
 
 ## Source Files
-- `Python notes all.pdf` (full lecture notes)
-- All coding notebooks available via Anaconda links above
+- All lecture notes are provided as PDF files:
+  - `Python 2_Benford’s Law Analysis_2.1–2.3`
+  - `Python 3_Accounts Receivable Aging Analysis and Visualization_3.1–3.3`
+  - `Python 4_Financial Statement Analysis with AI-Assisted Data Visualization_4.1–4.4`
+  - `Python 5_Auditing data sets with prompt engineering_5.1–5.4`
+  - `Python 6_Automating internal controls testing_6.1–6.3`
+  - `Python 6_Automating internal controls testing_6.4`
+  - `Python 7_Predictive analytics for financial forecasting and business intelligence_7.1–7.2`
+  - `Python 7_Predictive analytics for financial forecasting and business intelligence_7.3–7.5`
+- All coding scripts are aggregated in:
+  - `ACC424 Python code all.py`
+- All interactive coding notebooks are linked above via Anaconda Cloud
 
-🧠 For any questions, refer to lecture notes or reach out during MW class sessions.
+🧠 If you have any questions about the Python notes or encounter any coding difficulties, I am here to help you and are available to meet you in person during office hours:
+- 🕓 **Office Hours**: 2:30 PM – 3:45 PM on Mondays and Wednesdays
+- 📍 **Location**: 435J Gatton B&E
 
-
+For quick questions, feel free to reach out via my email zju222@uky.edu. However, for more complex or in-depth questions, visiting during office hours will be more effective for meaningful discussions and clarification.
 
 
 ---
+
 
 
 
