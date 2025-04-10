@@ -124,7 +124,7 @@ Benefits:
 🔗 [Forecasting & BI Notebook](https://nb.anaconda.cloud/jupyterhub/user/976e55b1-05fb-4288-8798-8a416ead9118/lab/workspaces/auto-d/tree/anaconda_projects/Predictive%20analytics%20and%20business%20intelligence%20applications.ipynb?)
 
 ## Source Files
-- All lecture notes are provided as PDF files:
+- All Python notes are provided as PDF files:
   - `Python 2_Benford’s Law Analysis_2.1–2.3`
   - `Python 3_Accounts Receivable Aging Analysis and Visualization_3.1–3.3`
   - `Python 4_Financial Statement Analysis with AI-Assisted Data Visualization_4.1–4.4`
