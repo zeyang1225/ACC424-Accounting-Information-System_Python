@@ -2,18 +2,8 @@
 
 This repository contains full Python lecture notes and code examples for **ACC424 Accounting Information System**, Spring 2025. The focus is on applying Python programming for auditing, financial analysis, internal controls testing, and AI-enhanced accounting procedures.
 
----
-
-## 📚 Table of Contents
-1. [Benford’s Law Analysis (Module 2.1–2.3)](#benfords-law-analysis-module-21–23)
-2. [Accounts Receivable Aging (Module 3.1–3.3)](#accounts-receivable-aging-module-31–33)
-3. [Financial Statement Analysis with AI (Module 4.1–4.4)](#financial-statement-analysis-with-ai-module-41–44)
-4. [Auditing with Prompt Engineering (Module 5.1–5.4)](#auditing-with-prompt-engineering-module-51–54)
-5. [Automating Internal Controls Testing (Module 6.1–6.4)](#automating-internal-controls-testing-module-61–64)
-6. [Source Files](#source-files)
 
 ---
-
 ## Benford’s Law Analysis (Module 2.1–2.3)
 Benford’s Law describes the frequency distribution of leading digits in naturally occurring datasets. It’s widely used in fraud detection.
 
@@ -98,8 +88,9 @@ Benefits:
 - 100% testing coverage
 - Real-time flagging of control failures
 - Traceable, structured audit documentation
+
+🔗 [Automating Internal Controls Testing Notebook](https://nb.anaconda.cloud/jupyterhub/user/976e55b1-05fb-4288-8798-8a416ead9118/lab/workspaces/auto-d/tree/anaconda_projects/Automating%20Internal%20Controls%20Testing.ipynb?)
   
-🔗 [Automating Internal Controls Testing Notebook](https://nb.anaconda.cloud/jupyterhub/user/976e55b1-05fb-4288-8798-8a416ead9118/lab/workspaces/auto-d/tree/anaconda_projects/Automating%20Internal%20Controls%20Testing.ipynb?))
 ---
 
 ## Source Files
