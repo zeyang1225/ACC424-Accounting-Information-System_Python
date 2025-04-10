@@ -141,7 +141,7 @@ Benefits:
 - 🕓 **Office Hours**: 2:30 PM – 3:45 PM on Mondays and Wednesdays
 - 📍 **Location**: 435J Gatton B&E
 
-For quick questions, feel free to reach out via my email zju222@uky.edu. However, for more complex or in-depth questions, visiting during office hours will be more effective for meaningful discussions and clarification.
+For quick questions, feel free to reach out via my email zju222@uky.edu. For more complex or in-depth questions, visiting during office hours will be more effective.
 
 
 ---
