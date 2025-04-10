@@ -121,7 +121,7 @@ Benefits:
 - Scenario modeling and what-if analysis
 - Enhanced decision support for CFOs and controllers
 
-🔗 [Forecasting & BI Notebook](https://anaconda.cloud/share/notebooks/a0170d38-04c6-4ad0-9dc4-73b6fd34a8d9/overview)
+🔗 [Forecasting & BI Notebook](https://nb.anaconda.cloud/jupyterhub/user/976e55b1-05fb-4288-8798-8a416ead9118/lab/workspaces/auto-d/tree/anaconda_projects/Predictive%20analytics%20and%20business%20intelligence%20applications.ipynb?)
 
 ## Source Files
 - `Python notes all.pdf` (full lecture notes)
