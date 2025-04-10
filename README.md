@@ -93,33 +93,35 @@ Benefits:
   
 ---
 
-## Predictive Analytics for Financial Forecasting and BI (Module 7.1–7.5)
+## Predictive Analytics for Financial Forecasting and Business Intelligence Applications (Module 7.1–7.5)
 Covers how to build predictive models for forward-looking business intelligence using financial transaction data.
 
 Forecasting Targets:
-
 - Revenue growth
 - Operating expenses
 - Net income and ROA trends
 
 Techniques:
-
 - Feature engineering with lagged values and moving averages
 - Linear and polynomial regression
 - Time series decomposition (trend, seasonality, residual)
 
 Framework:
-
 - Load historical financial data
 - Transform into supervised learning format
 - Fit predictive models and evaluate accuracy (e.g., MAE, RMSE)
 - Visualize forecasted vs. actuals using matplotlib or plotly
 
-Benefits:
+Business Intelligence Applications:
+- **Customer Segmentation** using KMeans clustering on customer spending patterns and payment behaviors
+- **Fraud Detection** using classification models (e.g., logistic regression, decision trees) to flag suspicious transactions based on historical fraud labels
 
+Benefits:
 - Data-driven budgeting and planning
 - Scenario modeling and what-if analysis
 - Enhanced decision support for CFOs and controllers
+- Targeted customer strategies and early detection of financial irregularities
+
 
 🔗 [Forecasting & BI Notebook](https://nb.anaconda.cloud/jupyterhub/user/976e55b1-05fb-4288-8798-8a416ead9118/lab/workspaces/auto-d/tree/anaconda_projects/Predictive%20analytics%20and%20business%20intelligence%20applications.ipynb?)
 
@@ -141,10 +143,5 @@ Benefits:
 
 
 ---
-
-
-
-
-
 
 
