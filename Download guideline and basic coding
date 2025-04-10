@@ -1,0 +1,82 @@
+1.1 Why do we need to learn Python?
+In today’s accounting world, Python serves multiple crucial purposes in AIS. First, it enables efficient data processing by automating the handling of large financial datasets, cleaning and standardizing accounting data, and transforming information between different accounting systems. This automation significantly reduces manual work and potential errors in data entry and processing.
+For financial analysis, Python provides powerful tools to create automated financial reports, perform complex calculations, and analyze trends in financial data. This capability becomes particularly valuable when dealing with large volumes of transactions or when complex analytical models need to be applied consistently across different datasets.
+In terms of internal controls and auditing, Python helps automate audit procedures, detect anomalies in transactions, and generate comprehensive audit trails. This automation not only increases efficiency but also improves the accuracy and consistency of audit processes.
+
+1.2. Introduction to Python, Anaconda, and Jupyter Notebook
+Think of Python as your core programming language - it's what you'll use to write code and give instructions to the computer. Python is particularly popular in accounting and finance because it's relatively easy to learn and has powerful capabilities for data analysis.
+Anaconda works like a comprehensive toolkit that comes with Python already installed. Imagine moving into a new house - instead of buying each piece of furniture separately, Anaconda gives you a fully furnished home. It includes Python plus many pre-installed tools and libraries you'll need for data analysis. Most importantly for students, Anaconda eliminates many common installation problems and makes it easier to get started.
+Jupyter Notebook, which comes included with Anaconda, is like your digital notebook where you’ll write and run your Python code. What makes Jupyter special is that it allows you to:
+•	Write and run code in small, manageable chunks
+•	See the results immediately
+•	Add explanatory text alongside your code
+•	Include visualizations and charts
+The relationship between these tools works like this: Anaconda provides the foundation (Python and necessary packages), and Jupyter Notebook provides the workspace where you'll write and run your code.
+
+1.3. Access Jupyter Notebook
+Access Anaconda Online
+•	Go to https://www.anaconda.com/
+•	Click “Create Account” and then click “Sign up with Email” if you do not have account.
+•	This gives you online access to Anaconda Cloud (Alternatively, you can directly download the Anaconda to your local computer for future convenient use).
+•	Click Notebooks (top-left sign “Jupyter”).
+
+1.4. Understanding the Jupyter Interface
+Home Page
+•	You’ll see your computer’s file system and navigate where you want to save your work
+Notebook Components
+•	The filename is at the top (default is "Untitled")
+•	Cells are rectangular boxes where you write code or text
+•	The kernel status (circle) shows if Python is running/busy
+
+1.5. Basic coding cell operations
+Working with the FIRST Cell
+•	Copy below and write the first code 
+o	Copy the below bold code and paste to the Cell: 
+print ("Hello, AIS Python World!")
+o	Press Shift + Enter to run the above cell and move to next
+o	Press Ctrl + Enter to run the above cell and stay
+
+
+
+
+Basic Code Cell Operations in AIS
+Basic Variables and Math (start with familiar accounting concepts)
+Copy the below bold code and paste to the Cell:
+revenue = 1000
+expenses = 600
+profit = revenue - expenses
+print("Total profit:", profit) 
+What is the above code’s output?
+
+Simple String Formatting (useful for reports)
+Copy the below bold code and paste to the Cell:
+company_name = "ABC Corp"
+year = 2024
+print(f"Financial Report for {company_name} - Year {year}")
+What is the above code’s output?
+
+Basic List Operations (like tracking monthly revenues)
+Copy the below bold code and paste to the Cell:
+monthly_revenues = [5000, 6000, 5500, 7000]
+print("Total Revenue:", sum(monthly_revenues))
+print("Average Monthly Revenue:", sum(monthly_revenues)/len(monthly_revenues))
+What is the above code’s output?
+
+Simple If Statements (basic business logic)
+Copy the below bold code and paste to the Cell:
+cash_balance = 5000
+minimum_balance = 1000
+if cash_balance < minimum_balance:
+    print("Warning: Cash balance below minimum requirement!")
+else:
+print("Cash balance is adequate.")
+What is the above code’s output?
+
+Basic Input (interactive elements)
+Copy the below code and paste to the Cell:
+asset_cost = float(input("Enter the cost of the asset: "))
+useful_life = float(input("Enter useful life in years: "))
+annual_depreciation = asset_cost / useful_life
+print(f"Annual straight-line depreciation: ${annual_depreciation:,.2f}")
+What is the above code’s output?
+
