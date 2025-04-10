@@ -93,7 +93,7 @@ Benefits:
   
 ---
 
-## Predictive Analytics for Financial Forecasting and BI (Module 7.3–7.5)
+## Predictive Analytics for Financial Forecasting and BI (Module 7.1–7.5)
 Covers how to build predictive models for forward-looking business intelligence using accounting and financial data.
 
 Forecasting Targets:
