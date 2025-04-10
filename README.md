@@ -1,6 +1,6 @@
 # ACC424-Accounting-Information-System_Python
 
-This repository contains full Python lecture notes and code examples for **ACC424 Accounting Information System**, Spring 2025. The focus is on applying Python programming for auditing, financial analysis, internal controls testing, and AI-enhanced accounting procedures.
+This repository contains full Python lecture notes and code examples for **ACC424 Accounting Information System**, Spring 2025. The course focuses on applying Python in AIS for auditing, financial analysis, automated internal controls testing, AI-enhanced accounting procedures, predictive analytics, and business intelligence. No prior coding experience is required.
 
 
 ---
