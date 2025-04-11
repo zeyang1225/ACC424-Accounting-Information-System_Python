@@ -64,9 +64,9 @@ Use LLMs like ChatGPT or DeepSeek to:
 - Debug Python code with AI assistance
 
 Prompt examples:
-- “Find missing customer names”
-- “Detect duplicates in Transaction ID”
-- “Flag values not in YYYY-MM-DD format”
+- “Write Python code to find all rows in the dataset where the ‘Customer Name’ column is missing”
+- “Write Python code to find all duplicate entries in the ‘Transaction ID’ column.”
+- “Write Python code to check if all values in the ‘Date’ column are in the correct format (YYYY-MM-DD). If not, list the invalid entries.”
 
 🔗 [Prompt Engineering Notebook](https://anaconda.cloud/share/notebooks/bfbbbb2d-00f9-45c7-825c-fcaf1357f0ad/overview)
 
